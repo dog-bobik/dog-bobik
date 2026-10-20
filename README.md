@@ -37,7 +37,7 @@
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dog-bobik&show_icons=true&include_all_commits=true&hide_border=true&theme=transparent&locale=ru" alt="GitHub statistics" />
 <img width="49%" src="https://streak-stats.demolab.com?user=dog-bobik&hide_border=true&theme=transparent&locale=ru" alt="GitHub contribution streak" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dog-bobik&theme=github-compact&hide_border=true&area=true" alt="GitHub activity graph" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dog-bobik&theme=transparent" alt="GitHub profile details" />
 
 </div>
 
