@@ -6,7 +6,7 @@
 
 [![Telegram](https://img.shields.io/badge/@Dog__Bobik-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Dog_Bobik)
 [![Email](https://img.shields.io/badge/1fufrik1%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:1fufrik1@gmail.com)
-[![Kwork](https://img.shields.io/badge/Kwork-14A800?style=flat-square)](https://kwork.ru/)
+[![Kwork](https://img.shields.io/badge/Kwork-14A800?style=flat-square)](https://kwork.ru/user/programmer_urmanus)
 
 </div>
 
@@ -54,6 +54,6 @@
 
 ### Обсудить проект
 
-[Telegram](https://t.me/Dog_Bobik) · [Email](mailto:1fufrik1@gmail.com) · [Kwork](https://kwork.ru/)
+[Telegram](https://t.me/Dog_Bobik) · [Email](mailto:1fufrik1@gmail.com) · [Kwork](https://kwork.ru/user/programmer_urmanus)
 
 </div>
